@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8428C5F7-5AFE-475D-B43F-BE4EBEB4FA8F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6371F0E8-7D80-4CF9-B4B0-7681DCD0C220"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindMyStation/ListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "updateLastUpdateLabel()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6371F0E8-7D80-4CF9-B4B0-7681DCD0C220 - 82744131c2667555"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMyStation.ListViewController.updateLastUpdateLabel() -&gt; ()"
+                  moduleName = "FindMyStation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yu/Documents/projects/FindMyStation/FindMyStation/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "6371F0E8-7D80-4CF9-B4B0-7681DCD0C220 - 82744131c2667534"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMyStation.ListViewController.updateLastUpdateLabel() -&gt; ()"
+                  moduleName = "FindMyStation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yu/Documents/projects/FindMyStation/FindMyStation/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "6371F0E8-7D80-4CF9-B4B0-7681DCD0C220 - 82744131c26674c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMyStation.ListViewController.updateLastUpdateLabel() -&gt; ()"
+                  moduleName = "FindMyStation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yu/Documents/projects/FindMyStation/FindMyStation/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "310C2067-3A36-4A01-BB00-3EE253ED6ADC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindMyStation/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "310C2067-3A36-4A01-BB00-3EE253ED6ADC - 158ba7808173c19d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMyStation.ListViewModel.init() -&gt; FindMyStation.ListViewModel"
+                  moduleName = "FindMyStation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yu/Documents/projects/FindMyStation/FindMyStation/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "613">
+               </Location>
+               <Location
+                  uuid = "310C2067-3A36-4A01-BB00-3EE253ED6ADC - 158ba7808173c19d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMyStation.ListViewModel.init() -&gt; FindMyStation.ListViewModel"
+                  moduleName = "FindMyStation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yu/Documents/projects/FindMyStation/FindMyStation/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "561">
+               </Location>
+               <Location
+                  uuid = "310C2067-3A36-4A01-BB00-3EE253ED6ADC - 158ba7808173c27c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMyStation.ListViewModel.init() -&gt; FindMyStation.ListViewModel"
+                  moduleName = "FindMyStation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yu/Documents/projects/FindMyStation/FindMyStation/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "564">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DEB9D147-C618-4817-A56F-DE6CAC09E017"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindMyStation/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "locationManager(_:didUpdateLocations:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DEB9D147-C618-4817-A56F-DE6CAC09E017 - 87f1471ece7bea6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMyStation.ListViewModel.locationManager(_: __C.CLLocationManager, didFailWithError: Swift.Error) -&gt; ()"
+                  moduleName = "FindMyStation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yu/Documents/projects/FindMyStation/FindMyStation/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "DEB9D147-C618-4817-A56F-DE6CAC09E017 - fa463345fd35c143"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMyStation.ListViewModel.locationManager(_: __C.CLLocationManager, didUpdateLocations: Swift.Array&lt;__C.CLLocation&gt;) -&gt; ()"
+                  moduleName = "FindMyStation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yu/Documents/projects/FindMyStation/FindMyStation/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "730">
+               </Location>
+               <Location
+                  uuid = "DEB9D147-C618-4817-A56F-DE6CAC09E017 - fa463345fd2a3e68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMyStation.ListViewModel.locationManager(_: __C.CLLocationManager, didUpdateLocations: Swift.Array&lt;__C.CLLocation&gt;) -&gt; ()"
+                  moduleName = "FindMyStation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yu/Documents/projects/FindMyStation/FindMyStation/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "552">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7854D32-E81D-4A43-A732-8E9EBAA3C21C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindMyStation/ListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "bindViewModel()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F7854D32-E81D-4A43-A732-8E9EBAA3C21C - d731e85108c2099a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;FindMyStation.StationsData&gt;) -&gt; () in FindMyStation.ListViewController.bindViewModel() -&gt; ()"
+                  moduleName = "FindMyStation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yu/Documents/projects/FindMyStation/FindMyStation/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "F7854D32-E81D-4A43-A732-8E9EBAA3C21C - d731e85108c20958"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;FindMyStation.StationsData&gt;) -&gt; () in FindMyStation.ListViewController.bindViewModel() -&gt; ()"
+                  moduleName = "FindMyStation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yu/Documents/projects/FindMyStation/FindMyStation/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FDC663FC-848E-4908-B9BC-412C8CF8555A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindMyStation/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "fetchStations()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5EC3267B-1E1D-4B3A-8D50-EA702521F0D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindMyStation/List/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4F5FC20-C94E-4E38-AEA6-2CE69DFFC4B5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindMyStation/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "scene(_:willConnectTo:options:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D4F5FC20-C94E-4E38-AEA6-2CE69DFFC4B5 - c20ac88182dcfcdc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMyStation.SceneDelegate.scene(_: __C.UIScene, willConnectTo: __C.UISceneSession, options: __C.UISceneConnectionOptions) -&gt; ()"
+                  moduleName = "FindMyStation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yu/Documents/projects/FindMyStation/FindMyStation/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "D4F5FC20-C94E-4E38-AEA6-2CE69DFFC4B5 - c20ac88182dcfaae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMyStation.SceneDelegate.scene(_: __C.UIScene, willConnectTo: __C.UISceneSession, options: __C.UISceneConnectionOptions) -&gt; ()"
+                  moduleName = "FindMyStation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yu/Documents/projects/FindMyStation/FindMyStation/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "496">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "257AA138-5F28-41D1-9A9E-6589124A8DB1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindMyStation/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "scene(_:willConnectTo:options:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "257AA138-5F28-41D1-9A9E-6589124A8DB1 - c20ac88182dcfb68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMyStation.SceneDelegate.scene(_: __C.UIScene, willConnectTo: __C.UISceneSession, options: __C.UISceneConnectionOptions) -&gt; ()"
+                  moduleName = "FindMyStation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yu/Documents/projects/FindMyStation/FindMyStation/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "257AA138-5F28-41D1-9A9E-6589124A8DB1 - c20ac88182dcfb68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMyStation.SceneDelegate.scene(_: __C.UIScene, willConnectTo: __C.UISceneSession, options: __C.UISceneConnectionOptions) -&gt; ()"
+                  moduleName = "FindMyStation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yu/Documents/projects/FindMyStation/FindMyStation/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "484">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5EF123C-B6E5-4BAC-9702-7F553C4BDAE7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindMyStation/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "scene(_:willConnectTo:options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A999DF88-5B9D-4982-A26A-0E3B078B621A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindMyStation/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "sceneDidDisconnect(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88B25A50-F64D-412E-A0DC-31D0535B4D21"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindMyStation/List/ListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "init?(coder:viewModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "88B25A50-F64D-412E-A0DC-31D0535B4D21 - e70309a164a0fb3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMyStation.ListViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FindMyStation.ListViewController&gt;"
+                  moduleName = "FindMyStation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yu/Documents/projects/FindMyStation/FindMyStation/List/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "88B25A50-F64D-412E-A0DC-31D0535B4D21 - 8da9877e8b232d5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMyStation.ListViewController.__allocating_init(coder: __C.NSCoder, viewModel: FindMyStation.StationsViewModel) -&gt; Swift.Optional&lt;FindMyStation.ListViewController&gt;"
+                  moduleName = "FindMyStation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yu/Documents/projects/FindMyStation/FindMyStation/List/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "88B25A50-F64D-412E-A0DC-31D0535B4D21 - 73e7b5604fe83a6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMyStation.ListViewController.init(coder: __C.NSCoder, viewModel: FindMyStation.StationsViewModel) -&gt; Swift.Optional&lt;FindMyStation.ListViewController&gt;"
+                  moduleName = "FindMyStation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yu/Documents/projects/FindMyStation/FindMyStation/List/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "88B25A50-F64D-412E-A0DC-31D0535B4D21 - 618f170782be3210"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMyStation.ListViewController.init(coder: __C.NSCoder, viewModel: FindMyStation.StationsViewModelProtocol) -&gt; Swift.Optional&lt;FindMyStation.ListViewController&gt;"
+                  moduleName = "FindMyStation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yu/Documents/projects/FindMyStation/FindMyStation/List/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "324">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "330DDE84-A880-4933-8CF1-D8367CC9E77E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindMyStation/StationsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "330DDE84-A880-4933-8CF1-D8367CC9E77E - 98862c6a82e3f2a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMyStation.StationsViewModel.init() -&gt; FindMyStation.StationsViewModel"
+                  moduleName = "FindMyStation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yu/Documents/projects/FindMyStation/FindMyStation/StationsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "852">
+               </Location>
+               <Location
+                  uuid = "330DDE84-A880-4933-8CF1-D8367CC9E77E - 98862c6a82e3f207"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindMyStation.StationsViewModel.init() -&gt; FindMyStation.StationsViewModel"
+                  moduleName = "FindMyStation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yu/Documents/projects/FindMyStation/FindMyStation/StationsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "852">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "604A8EAF-058F-4FAF-B740-35CFB2295FA4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindMyStation/ViewModels/StationsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
